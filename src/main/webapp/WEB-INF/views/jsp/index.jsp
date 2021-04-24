@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Edurenz.</h2>
-			<h3>Contact @ +91-00000000</h3>
+			<h3>Contact @ +91-000000</h3>
 		</div>	
 	</div>
 
