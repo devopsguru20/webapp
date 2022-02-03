@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Edurenz 2019</p>
+		<p>&copy; Thank You</p>
 	</footer>
 </div>
 
